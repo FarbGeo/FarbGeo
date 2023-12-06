@@ -1,4 +1,4 @@
-### Om FarbGeo kodbibliotek
+### Om Geosupport Farb kodbibliotek
 
 I dessa kodbibliotek samlas data och filer av varierande slag, som har med geosupport att göra. Det kan vara experiment med inhämtningsapplikationer ([QField](https://github.com/FarbGeo/QField "QField projekt")) eller färdiga kartprodukter som GeoPDF. Men det kan även inkludera ren kod som kan användas i olika sammanhang och i olika verktyg.
 
